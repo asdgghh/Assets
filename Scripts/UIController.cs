@@ -12,7 +12,7 @@ public class UIController : MonoBehaviour
     private float time = 0;
     private PlayerController playerController;
 
-    public static UIController instance;
+    public static UIController instance;//nakaya
 
     void Awake()
     {
