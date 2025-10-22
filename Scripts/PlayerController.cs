@@ -1,6 +1,6 @@
 using UnityEngine;  //てすと
 using UnityEngine.InputSystem;
-
+//伊藤奏太
 public class PlayerController : MonoBehaviour
 {
     private PlayerControls playerControls;
