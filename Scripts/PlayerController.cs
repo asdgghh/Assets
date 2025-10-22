@@ -1,4 +1,4 @@
-using UnityEngine;
+using UnityEngine;  //てすと
 using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
